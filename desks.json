@@ -1,0 +1,42 @@
+{
+ "hub": {
+  "name": "Market Files",
+  "handle": "TheMarketFiles",
+  "hex": "#E9EDF2"
+ },
+ "wallst": {
+  "name": "Wall Street",
+  "handle": "NowOnWallSt",
+  "hex": "#2FBF77",
+  "route": "wall-street",
+  "blurb": "Current Wall Street and U.S. market reporting."
+ },
+ "then": {
+  "name": "Then on Wall Street",
+  "handle": "ThenOnWallSt",
+  "hex": "#C9A55C",
+  "route": "history",
+  "blurb": "Wall Street and American financial history."
+ },
+ "global": {
+  "name": "Global Finance",
+  "handle": "OnGlobalFinance",
+  "hex": "#4C8DFF",
+  "route": "global-finance",
+  "blurb": "Central banks, currencies, sovereign debt and the crises that crossed borders."
+ },
+ "btc": {
+  "name": "Bitcoin",
+  "handle": "NowOnBTC",
+  "hex": "#F2A03D",
+  "route": "bitcoin",
+  "blurb": "Bitcoin news, history, monetary design and market structure."
+ },
+ "chain": {
+  "name": "On-Chain",
+  "handle": "NowOnChain",
+  "hex": "#8E7CF7",
+  "route": "blockchain",
+  "blurb": "Protocols, infrastructure, digital assets and DeFi."
+ }
+}

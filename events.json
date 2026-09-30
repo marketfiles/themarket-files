@@ -1,0 +1,1762 @@
+[
+ {
+  "id": "e18730918-alihqp",
+  "date": "1873-09-18",
+  "desk": "then",
+  "head": "Jay Cooke & Company suspends payments",
+  "status": "review",
+  "link": "nyse-reopens-1873"
+ },
+ {
+  "id": "e18730920-15k4lq",
+  "date": "1873-09-20",
+  "desk": "then",
+  "head": "The NYSE closes as the Panic of 1873 spreads",
+  "status": "review",
+  "link": "nyse-reopens-1873"
+ },
+ {
+  "id": "e19291024-13ojw6",
+  "date": "1929-10-24",
+  "desk": "then",
+  "head": "Black Thursday: a bankers’ pool steadies a falling market",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19291028-13gz51",
+  "date": "1929-10-28",
+  "desk": "then",
+  "head": "The Dow falls about 13% in a single session",
+  "status": "review",
+  "link": "black-tuesday-1929"
+ },
+ {
+  "id": "e20080916-974rzz",
+  "date": "2008-09-16",
+  "desk": "then",
+  "head": "The Reserve Primary Fund breaks the buck",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080929-139179",
+  "date": "2008-09-29",
+  "desk": "then",
+  "head": "The House rejects the bank rescue bill; the Dow falls 777.68 points",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080930-40vubf",
+  "date": "2008-09-30",
+  "desk": "then",
+  "head": "The Dow rebounds a day after the rescue bill’s defeat",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20130930-fq63xk",
+  "date": "2013-09-30",
+  "desk": "btc",
+  "head": "Silk Road case: civil forfeiture action (date under verification)",
+  "status": "pending",
+  "link": ""
+ },
+ {
+  "id": "e20120906-ynitl0",
+  "date": "2012-09-06",
+  "desk": "global",
+  "head": "The ECB announces Outright Monetary Transactions",
+  "status": "review",
+  "link": "whatever-it-takes-2012"
+ },
+ {
+  "id": "e19921008-11bblg",
+  "date": "1992-10-08",
+  "desk": "global",
+  "head": "The UK adopts an inflation target",
+  "status": "review",
+  "link": "black-wednesday-1992"
+ },
+ {
+  "id": "e20160720-1favc6",
+  "date": "2016-07-20",
+  "desk": "chain",
+  "head": "Ethereum hard fork returns The DAO’s funds",
+  "status": "review",
+  "link": "the-dao-exploit-2016"
+ },
+ {
+  "id": "e20240111-1rket8",
+  "date": "2024-01-11",
+  "desk": "btc",
+  "head": "Spot bitcoin ETFs begin trading",
+  "status": "review",
+  "link": "spot-bitcoin-etfs-2024"
+ },
+ {
+  "id": "e19990101-klhagm",
+  "date": "1999-01-01",
+  "desk": "global",
+  "head": "The euro launches as an accounting currency in 11 countries",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20020101-1oa7az",
+  "date": "2002-01-01",
+  "desk": "global",
+  "head": "Euro banknotes and coins enter circulation",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19940101-1voidr",
+  "date": "1994-01-01",
+  "desk": "global",
+  "head": "NAFTA takes effect",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19950101-1pjhju",
+  "date": "1995-01-01",
+  "desk": "global",
+  "head": "The World Trade Organization begins operating",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20010103-83zxhe",
+  "date": "2001-01-03",
+  "desk": "then",
+  "head": "The Fed makes a surprise half-point cut between meetings",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e17820107-3p45s3",
+  "date": "1782-01-07",
+  "desk": "then",
+  "head": "The Bank of North America opens in Philadelphia",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18350108-1ukfnn",
+  "date": "1835-01-08",
+  "desk": "then",
+  "head": "The U.S. national debt is paid off under President Jackson",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20000110-n6id",
+  "date": "2000-01-10",
+  "desk": "then",
+  "head": "AOL agrees to acquire Time Warner",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19730111-1r4hjr",
+  "date": "1973-01-11",
+  "desk": "then",
+  "head": "The Dow closes at 1,051.70 before the 1973–74 bear market",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080111-1q0ev3",
+  "date": "2008-01-11",
+  "desk": "then",
+  "head": "Bank of America agrees to buy Countrywide Financial",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20090112-q4gszk",
+  "date": "2009-01-12",
+  "desk": "btc",
+  "head": "First bitcoin transaction between two people: Satoshi to Hal Finney",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19990113-19sasn",
+  "date": "1999-01-13",
+  "desk": "global",
+  "head": "Brazil devalues the real",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20000114-zuns8r",
+  "date": "2000-01-14",
+  "desk": "then",
+  "head": "The Dow closes at a record 11,722.98 at the height of the dot-com boom",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19910117-162ro0",
+  "date": "1991-01-17",
+  "desk": "then",
+  "head": "The Dow rallies 114.60 points as the Gulf War air campaign begins",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080121-tyiwx2",
+  "date": "2008-01-21",
+  "desk": "global",
+  "head": "Global stocks plunge while U.S. markets are closed for a holiday",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080122-16bubi",
+  "date": "2008-01-22",
+  "desk": "then",
+  "head": "The Fed cuts rates by three-quarters of a point in an emergency move",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20150122-l8cqeu",
+  "date": "2015-01-22",
+  "desk": "global",
+  "head": "The ECB announces large-scale quantitative easing",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080124-1bbov2",
+  "date": "2008-01-24",
+  "desk": "global",
+  "head": "Société Générale discloses a €4.9 billion loss from unauthorized trading",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20210127-f3w808",
+  "date": "2021-01-27",
+  "desk": "then",
+  "head": "The GameStop short squeeze peaks with a close of $347.51",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20210128-1p2n2x",
+  "date": "2021-01-28",
+  "desk": "then",
+  "head": "Robinhood restricts buying of GameStop and other meme stocks",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20160129-a65x82",
+  "date": "2016-01-29",
+  "desk": "global",
+  "head": "The Bank of Japan adopts negative interest rates",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19340130-1dy0fr",
+  "date": "1934-01-30",
+  "desk": "then",
+  "head": "The Gold Reserve Act is signed",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19340131-1sik3a",
+  "date": "1934-01-31",
+  "desk": "then",
+  "head": "The dollar is devalued as gold is reset to $35 an ounce",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19130203-7vick2",
+  "date": "1913-02-03",
+  "desk": "then",
+  "head": "The Sixteenth Amendment is ratified, permitting a federal income tax",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19940204-dlb5co",
+  "date": "1994-02-04",
+  "desk": "then",
+  "head": "The Fed raises rates for the first time since 1989, starting the 1994 bond rout",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20180205-iy4p1n",
+  "date": "2018-02-05",
+  "desk": "then",
+  "head": "The Dow falls 1,175 points as a volatility trade unravels",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19920207-19c3jc",
+  "date": "1992-02-07",
+  "desk": "global",
+  "head": "The Maastricht Treaty is signed, setting the path to the euro",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19710208-dmsyv5",
+  "date": "1971-02-08",
+  "desk": "then",
+  "head": "Nasdaq begins operating as an electronic quotation market",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20110209-11tofa",
+  "date": "2011-02-09",
+  "desk": "btc",
+  "head": "Bitcoin reaches parity with the U.S. dollar",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19710215-192h8h",
+  "date": "1971-02-15",
+  "desk": "global",
+  "head": "Decimal Day: Britain switches to decimal currency",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20090217-1mgkh0",
+  "date": "2009-02-17",
+  "desk": "then",
+  "head": "The American Recovery and Reinvestment Act is signed",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200219-vvctby",
+  "date": "2020-02-19",
+  "desk": "then",
+  "head": "The S&P 500 closes at a record before the pandemic crash",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19870222-1k32cx",
+  "date": "1987-02-22",
+  "desk": "global",
+  "head": "The Louvre Accord seeks to stabilize the dollar",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20240222-xdmcon",
+  "date": "2024-02-22",
+  "desk": "global",
+  "head": "The Nikkei 225 finally closes above its 1989 record",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220224-1c5kv7",
+  "date": "2022-02-24",
+  "desk": "global",
+  "head": "Russia invades Ukraine; commodity prices surge",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e17910225-130i7m",
+  "date": "1791-02-25",
+  "desk": "then",
+  "head": "The First Bank of the United States is chartered",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18620225-1k9nhm",
+  "date": "1862-02-25",
+  "desk": "then",
+  "head": "The Legal Tender Act authorizes greenback paper money",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18630225-fd92gs",
+  "date": "1863-02-25",
+  "desk": "then",
+  "head": "The National Currency Act creates nationally chartered banks",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19950226-1kjdfo",
+  "date": "1995-02-26",
+  "desk": "global",
+  "head": "Barings Bank collapses after Nick Leeson’s trading losses",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20070227-juy0cl",
+  "date": "2007-02-27",
+  "desk": "global",
+  "head": "Shanghai stocks plunge about 9%, dragging the Dow down 416 points",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200303-i677lq",
+  "date": "2020-03-03",
+  "desk": "then",
+  "head": "The Fed makes an emergency half-point cut as the pandemic spreads",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330304-95n65p",
+  "date": "1933-03-04",
+  "desk": "then",
+  "head": "Roosevelt takes office amid a nationwide banking crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330306-4phzn6",
+  "date": "1933-03-06",
+  "desk": "then",
+  "head": "Roosevelt declares a national bank holiday",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18170308-1kbk9n",
+  "date": "1817-03-08",
+  "desk": "then",
+  "head": "The New York Stock & Exchange Board adopts its constitution",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20090309-5221w9",
+  "date": "2009-03-09",
+  "desk": "then",
+  "head": "The S&P 500 hits its financial-crisis low of 676.53",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20230310-1c5nav",
+  "date": "2023-03-10",
+  "desk": "then",
+  "head": "Silicon Valley Bank is closed by regulators",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20210311-899q8j",
+  "date": "2021-03-11",
+  "desk": "chain",
+  "head": "A Beeple NFT sells for $69.3 million at Christie’s",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330312-1qexk9",
+  "date": "1933-03-12",
+  "desk": "then",
+  "head": "Roosevelt’s first fireside chat explains the banking crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20230312-1hjbqh",
+  "date": "2023-03-12",
+  "desk": "then",
+  "head": "The Fed creates the Bank Term Funding Program after SVB’s failure",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330313-r6erh3",
+  "date": "1933-03-13",
+  "desk": "then",
+  "head": "Banks begin reopening after the national holiday",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20240313-crslos",
+  "date": "2024-03-13",
+  "desk": "chain",
+  "head": "Ethereum’s Dencun upgrade cuts layer-2 data costs",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330315-3plqjq",
+  "date": "1933-03-15",
+  "desk": "then",
+  "head": "The Dow jumps about 15% as the NYSE reopens — its biggest one-day percentage gain",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200315-zwk997",
+  "date": "2020-03-15",
+  "desk": "then",
+  "head": "The Fed cuts rates to near zero in a Sunday announcement",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080316-1hhw23",
+  "date": "2008-03-16",
+  "desk": "then",
+  "head": "JPMorgan agrees to buy Bear Stearns with Fed support",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20130316-1i3fkb",
+  "date": "2013-03-16",
+  "desk": "global",
+  "head": "Cyprus bailout deal includes a levy on bank deposits",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220316-1y6vl8",
+  "date": "2022-03-16",
+  "desk": "then",
+  "head": "The Fed begins raising rates to fight inflation",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19680317-19gj7e",
+  "date": "1968-03-17",
+  "desk": "global",
+  "head": "The London Gold Pool ends; a two-tier gold market begins",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20230319-1ku1j9",
+  "date": "2023-03-19",
+  "desk": "global",
+  "head": "UBS agrees to take over Credit Suisse",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20240319-13rz5j",
+  "date": "2024-03-19",
+  "desk": "global",
+  "head": "The Bank of Japan ends negative interest rates",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200323-t8eh5t",
+  "date": "2020-03-23",
+  "desk": "then",
+  "head": "The Fed pledges open-ended asset purchases; the S&P 500 hits its pandemic low",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20000324-1e01t7",
+  "date": "2000-03-24",
+  "desk": "then",
+  "head": "The S&P 500 peaks at 1,527.46",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19570325-w52nbk",
+  "date": "1957-03-25",
+  "desk": "global",
+  "head": "The Treaty of Rome creates the European Economic Community",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19800327-1tpgzr",
+  "date": "1980-03-27",
+  "desk": "then",
+  "head": "Silver Thursday: the Hunt brothers’ silver bet collapses",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19990329-1l1ch2",
+  "date": "1999-03-29",
+  "desk": "then",
+  "head": "The Dow closes above 10,000 for the first time",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e17920402-1x7v0b",
+  "date": "1792-04-02",
+  "desk": "then",
+  "head": "The Coinage Act establishes the U.S. Mint and the dollar",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20130404-yije1u",
+  "date": "2013-04-04",
+  "desk": "global",
+  "head": "The Bank of Japan launches massive quantitative and qualitative easing",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330405-s54x4o",
+  "date": "1933-04-05",
+  "desk": "then",
+  "head": "Executive Order 6102 requires Americans to turn in gold",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20230412-um8vh1",
+  "date": "2023-04-12",
+  "desk": "chain",
+  "head": "Ethereum’s Shapella upgrade enables staking withdrawals",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20000414-o02luh",
+  "date": "2000-04-14",
+  "desk": "then",
+  "head": "The Nasdaq falls 9.7% in a single session",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20210414-dbt0hb",
+  "date": "2021-04-14",
+  "desk": "btc",
+  "head": "Coinbase lists on Nasdaq",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19060418-1lnkvv",
+  "date": "1906-04-18",
+  "desk": "then",
+  "head": "The San Francisco earthquake strains insurers and credit ahead of 1907",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200420-1kbtkt",
+  "date": "2020-04-20",
+  "desk": "global",
+  "head": "WTI crude futures settle below zero, at −$37.63",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20240420-ysdgcs",
+  "date": "2024-04-20",
+  "desk": "btc",
+  "head": "Bitcoin’s fourth halving cuts the block reward to 3.125 BTC (UTC)",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20150423-5rlmre",
+  "date": "2015-04-23",
+  "desk": "then",
+  "head": "The Nasdaq closes above its 2000 peak for the first time",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19750501-qkfouf",
+  "date": "1975-05-01",
+  "desk": "then",
+  "head": "May Day: fixed brokerage commissions end on Wall Street",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20230501-5ox697",
+  "date": "2023-05-01",
+  "desk": "then",
+  "head": "First Republic Bank is seized and sold to JPMorgan",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20100502-stl411",
+  "date": "2010-05-02",
+  "desk": "global",
+  "head": "Greece agrees its first bailout with the EU and IMF",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19970506-1qazzc",
+  "date": "1997-05-06",
+  "desk": "global",
+  "head": "The Bank of England is granted operational independence",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20100506-sibxjf",
+  "date": "2010-05-06",
+  "desk": "then",
+  "head": "The Flash Crash: the Dow drops nearly 1,000 points in minutes",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18730509-rimbwo",
+  "date": "1873-05-09",
+  "desk": "global",
+  "head": "The Vienna stock exchange crashes, opening the Panic of 1873 in Europe",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19010509-hdu3oc",
+  "date": "1901-05-09",
+  "desk": "then",
+  "head": "Panic of 1901: a fight to corner Northern Pacific shares crashes the market",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220509-sbxsz7",
+  "date": "2022-05-09",
+  "desk": "chain",
+  "head": "TerraUSD loses its dollar peg",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18370510-2eu5ly",
+  "date": "1837-05-10",
+  "desk": "then",
+  "head": "New York banks suspend specie payments in the Panic of 1837",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18660510-1tr9id",
+  "date": "1866-05-10",
+  "desk": "global",
+  "head": "Overend, Gurney & Co. suspends payment, setting off a London panic",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18690510-ru1h7f",
+  "date": "1869-05-10",
+  "desk": "then",
+  "head": "The transcontinental railroad is completed at Promontory Summit",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20100510-plveue",
+  "date": "2010-05-10",
+  "desk": "global",
+  "head": "Europe announces a €750 billion stabilization package",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19310511-nuc04x",
+  "date": "1931-05-11",
+  "desk": "global",
+  "head": "Austria’s Creditanstalt reveals huge losses, spreading the Depression’s banking crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200511-uik068",
+  "date": "2020-05-11",
+  "desk": "btc",
+  "head": "Bitcoin’s third halving cuts the block reward to 6.25 BTC",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19840517-1j93za",
+  "date": "1984-05-17",
+  "desk": "then",
+  "head": "Regulators announce a rescue of Continental Illinois",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20120518-1eo6dz",
+  "date": "2012-05-18",
+  "desk": "then",
+  "head": "Facebook goes public",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20130522-cuu4l2",
+  "date": "2013-05-22",
+  "desk": "then",
+  "head": "Bernanke’s taper remarks set off the “taper tantrum”",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18960526-jveqgl",
+  "date": "1896-05-26",
+  "desk": "then",
+  "head": "The Dow Jones Industrial Average is first published",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19620528-1ddii6",
+  "date": "1962-05-28",
+  "desk": "then",
+  "head": "The “Kennedy Slide”: the Dow falls 5.7%",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19980601-b7xkdk",
+  "date": "1998-06-01",
+  "desk": "global",
+  "head": "The European Central Bank is established",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20090601-gp9oiu",
+  "date": "2009-06-01",
+  "desk": "then",
+  "head": "General Motors files for bankruptcy",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20140605-12ahlo",
+  "date": "2014-06-05",
+  "desk": "global",
+  "head": "The ECB introduces a negative deposit rate",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19340606-86f3ac",
+  "date": "1934-06-06",
+  "desk": "then",
+  "head": "The Securities Exchange Act creates the SEC",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20200615-1rekfc",
+  "date": "2020-06-15",
+  "desk": "chain",
+  "head": "Compound begins distributing COMP, kicking off “DeFi summer”",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220615-17u1om",
+  "date": "2022-06-15",
+  "desk": "then",
+  "head": "The Fed raises rates by 0.75 point, its largest hike since 1994",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19330616-1jl1wz",
+  "date": "1933-06-16",
+  "desk": "then",
+  "head": "The Banking Act of 1933 (Glass-Steagall) creates the FDIC",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19700621-1ofofe",
+  "date": "1970-06-21",
+  "desk": "then",
+  "head": "Penn Central files for bankruptcy",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20160624-1nis3j",
+  "date": "2016-06-24",
+  "desk": "global",
+  "head": "The pound plunges after Britain votes to leave the EU",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19440701-6rgupj",
+  "date": "1944-07-01",
+  "desk": "global",
+  "head": "The Bretton Woods conference opens",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19970702-jjpaq0",
+  "date": "1997-07-02",
+  "desk": "global",
+  "head": "Thailand floats the baht, triggering the Asian financial crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18840703-1nlmpu",
+  "date": "1884-07-03",
+  "desk": "then",
+  "head": "Charles Dow publishes his first stock average",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20150705-m2799r",
+  "date": "2015-07-05",
+  "desk": "global",
+  "head": "Greek voters reject bailout terms in a referendum",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18890708-ohvkj8",
+  "date": "1889-07-08",
+  "desk": "then",
+  "head": "The Wall Street Journal publishes its first issue",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20160709-4pru0s",
+  "date": "2016-07-09",
+  "desk": "btc",
+  "head": "Bitcoin’s second halving cuts the block reward to 12.5 BTC",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18320710-1uw1zl",
+  "date": "1832-07-10",
+  "desk": "then",
+  "head": "Jackson vetoes the recharter of the Second Bank of the United States",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19310713-ei8qse",
+  "date": "1931-07-13",
+  "desk": "global",
+  "head": "Germany’s Danatbank collapses",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20020721-comk1j",
+  "date": "2002-07-21",
+  "desk": "then",
+  "head": "WorldCom files for bankruptcy",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20100721-13m136",
+  "date": "2010-07-21",
+  "desk": "then",
+  "head": "The Dodd-Frank Act is signed",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220721-dpymay",
+  "date": "2022-07-21",
+  "desk": "global",
+  "head": "The ECB raises rates for the first time in 11 years",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19440722-5bevmw",
+  "date": "1944-07-22",
+  "desk": "global",
+  "head": "The Bretton Woods agreements are concluded",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20140722-x564vv",
+  "date": "2014-07-22",
+  "desk": "chain",
+  "head": "The Ether presale opens",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e16940727-111gom",
+  "date": "1694-07-27",
+  "desk": "global",
+  "head": "The Bank of England is chartered",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20020730-1gvsuf",
+  "date": "2002-07-30",
+  "desk": "then",
+  "head": "The Sarbanes-Oxley Act is signed",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19140731-1ryqex",
+  "date": "1914-07-31",
+  "desk": "then",
+  "head": "The NYSE closes as World War I begins",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20120801-19tmge",
+  "date": "2012-08-01",
+  "desk": "then",
+  "head": "Knight Capital loses about $440 million in a trading glitch",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20170801-vmcjp5",
+  "date": "2017-08-01",
+  "desk": "btc",
+  "head": "Bitcoin Cash splits from Bitcoin",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19900802-1hcrkb",
+  "date": "1990-08-02",
+  "desk": "global",
+  "head": "Iraq invades Kuwait; oil prices spike",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20110805-1qut4q",
+  "date": "2011-08-05",
+  "desk": "then",
+  "head": "S&P strips the United States of its AAA credit rating",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20240805-1iodbe",
+  "date": "2024-08-05",
+  "desk": "global",
+  "head": "Japan’s Nikkei falls 12.4% as the yen carry trade unwinds",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20110808-1147wr",
+  "date": "2011-08-08",
+  "desk": "then",
+  "head": "The Dow falls 634.76 points after the U.S. downgrade",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20070809-vowetm",
+  "date": "2007-08-09",
+  "desk": "global",
+  "head": "BNP Paribas freezes three funds; the ECB injects emergency liquidity",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20150811-a2nmsb",
+  "date": "2015-08-11",
+  "desk": "global",
+  "head": "China devalues the yuan",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19820812-14wfpx",
+  "date": "1982-08-12",
+  "desk": "global",
+  "head": "Mexico says it cannot service its debt, opening the Latin American debt crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20100815-tiwnr0",
+  "date": "2010-08-15",
+  "desk": "btc",
+  "head": "A bug creates 184 billion bitcoin; developers fix it with a fork",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19980817-uckv57",
+  "date": "1998-08-17",
+  "desk": "global",
+  "head": "Russia devalues the ruble and defaults on domestic debt",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20040819-ieg3f1",
+  "date": "2004-08-19",
+  "desk": "then",
+  "head": "Google goes public",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18570824-1v2l2n",
+  "date": "1857-08-24",
+  "desk": "then",
+  "head": "Ohio Life Insurance and Trust fails, setting off the Panic of 1857",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20150824-1rj73t",
+  "date": "2015-08-24",
+  "desk": "global",
+  "head": "A China-led sell-off sends the Dow down about 1,000 points at the open",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20170824-12h9cg",
+  "date": "2017-08-24",
+  "desk": "btc",
+  "head": "Segregated Witness (SegWit) activates on Bitcoin",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19290903-1no215",
+  "date": "1929-09-03",
+  "desk": "then",
+  "head": "The Dow peaks at 381.17 before the Great Crash",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080907-bz6tet",
+  "date": "2008-09-07",
+  "desk": "then",
+  "head": "Fannie Mae and Freddie Mac are placed into conservatorship",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20210907-6rpbbq",
+  "date": "2021-09-07",
+  "desk": "btc",
+  "head": "Bitcoin becomes legal tender in El Salvador",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20010911-efm4pi",
+  "date": "2001-09-11",
+  "desk": "then",
+  "head": "Terrorist attacks close U.S. stock markets for four trading days",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20070914-28jtyq",
+  "date": "2007-09-14",
+  "desk": "global",
+  "head": "Depositors line up outside Northern Rock",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080914-xz99qz",
+  "date": "2008-09-14",
+  "desk": "then",
+  "head": "Bank of America agrees to buy Merrill Lynch",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20010917-laqb0r",
+  "date": "2001-09-17",
+  "desk": "then",
+  "head": "The NYSE reopens after 9/11; the Dow falls 684.81 points",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20190917-185ad2",
+  "date": "2019-09-17",
+  "desk": "then",
+  "head": "Repo rates spike and the New York Fed injects cash",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19310921-1p4m8h",
+  "date": "1931-09-21",
+  "desk": "global",
+  "head": "Britain leaves the gold standard",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080921-13jkpv",
+  "date": "2008-09-21",
+  "desk": "then",
+  "head": "Goldman Sachs and Morgan Stanley become bank holding companies",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19980923-6695q1",
+  "date": "1998-09-23",
+  "desk": "then",
+  "head": "The New York Fed organizes a rescue of Long-Term Capital Management",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220923-1te54n",
+  "date": "2022-09-23",
+  "desk": "global",
+  "head": "The UK “mini-budget” sets off a gilt-market crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18690924-1827r3",
+  "date": "1869-09-24",
+  "desk": "then",
+  "head": "Black Friday: Gould and Fisk’s attempt to corner gold collapses",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20080925-1xlrxy",
+  "date": "2008-09-25",
+  "desk": "then",
+  "head": "Washington Mutual is seized in the largest U.S. bank failure",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20220928-16c1ld",
+  "date": "2022-09-28",
+  "desk": "global",
+  "head": "The Bank of England intervenes to stabilize the gilt market",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081003-1olcf4",
+  "date": "2008-10-03",
+  "desk": "then",
+  "head": "The Emergency Economic Stabilization Act (TARP) is signed",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19791006-1eamlk",
+  "date": "1979-10-06",
+  "desk": "then",
+  "head": "Volcker’s “Saturday Night Special” shifts Fed policy to fight inflation",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081008-1443lm",
+  "date": "2008-10-08",
+  "desk": "global",
+  "head": "Six central banks cut rates in a coordinated move",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20021009-1es4m5",
+  "date": "2002-10-09",
+  "desk": "then",
+  "head": "The Nasdaq bottoms at 1,114.11 after the dot-com crash",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20071009-197not",
+  "date": "2007-10-09",
+  "desk": "then",
+  "head": "The Dow closes at a record 14,164.53 before the financial crisis",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19891013-1burxu",
+  "date": "1989-10-13",
+  "desk": "then",
+  "head": "Friday the 13th mini-crash as a UAL buyout collapses",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081013-ay14wa",
+  "date": "2008-10-13",
+  "desk": "then",
+  "head": "The Dow gains 936 points, then its largest one-day point gain",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19731017-rpyny9",
+  "date": "1973-10-17",
+  "desk": "global",
+  "head": "Arab oil producers announce an oil embargo",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19871020-uz1ogl",
+  "date": "1987-10-20",
+  "desk": "then",
+  "head": "The Fed pledges liquidity the morning after Black Monday",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19861027-1db31p",
+  "date": "1986-10-27",
+  "desk": "global",
+  "head": "“Big Bang” deregulates the London Stock Exchange",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19971027-7svcnx",
+  "date": "1997-10-27",
+  "desk": "then",
+  "head": "The Dow falls 554 points and market-wide circuit breakers halt trading for the first time",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19931101-1buyl4",
+  "date": "1993-11-01",
+  "desk": "global",
+  "head": "The Maastricht Treaty takes effect, creating the European Union",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20181102-i127gb",
+  "date": "2018-11-02",
+  "desk": "chain",
+  "head": "Uniswap launches on Ethereum",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20221108-gngwfx",
+  "date": "2022-11-08",
+  "desk": "chain",
+  "head": "FTX halts withdrawals as a liquidity crisis hits",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19891109-jp7t42",
+  "date": "1989-11-09",
+  "desk": "global",
+  "head": "The Berlin Wall falls",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20201109-a62m1q",
+  "date": "2020-11-09",
+  "desk": "then",
+  "head": "Vaccine news sparks a sharp rotation rally",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20211110-wlhvyw",
+  "date": "2021-11-10",
+  "desk": "btc",
+  "head": "Bitcoin peaks near $69,000",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20221111-csw4s8",
+  "date": "2022-11-11",
+  "desk": "chain",
+  "head": "FTX files for bankruptcy",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19991112-1v388w",
+  "date": "1999-11-12",
+  "desk": "then",
+  "head": "The Gramm-Leach-Bliley Act removes Glass-Steagall’s separation of banking and securities",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19291113-e0kbdd",
+  "date": "1929-11-13",
+  "desk": "then",
+  "head": "The Dow hits its 1929 low of 198.69",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20211114-1t7c82",
+  "date": "2021-11-14",
+  "desk": "btc",
+  "head": "The Taproot upgrade activates on Bitcoin",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19721114-rk2vak",
+  "date": "1972-11-14",
+  "desk": "then",
+  "head": "The Dow closes above 1,000 for the first time",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19231115-lb6o64",
+  "date": "1923-11-15",
+  "desk": "global",
+  "head": "Germany introduces the Rentenmark to end hyperinflation",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19671118-1srikb",
+  "date": "1967-11-18",
+  "desk": "global",
+  "head": "Britain devalues the pound by 14.3%",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20101121-casnwi",
+  "date": "2010-11-21",
+  "desk": "global",
+  "head": "Ireland requests an EU–IMF bailout",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19541123-t0uz5j",
+  "date": "1954-11-23",
+  "desk": "then",
+  "head": "The Dow finally closes above its 1929 peak",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081123-10uc3l",
+  "date": "2008-11-23",
+  "desk": "then",
+  "head": "The U.S. government announces a rescue of Citigroup",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19971124-kgmcp4",
+  "date": "1997-11-24",
+  "desk": "global",
+  "head": "Japan’s Yamaichi Securities collapses",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081125-26x520",
+  "date": "2008-11-25",
+  "desk": "then",
+  "head": "The Fed launches mortgage-bond purchases — the start of QE",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20091125-19w8o7",
+  "date": "2009-11-25",
+  "desk": "global",
+  "head": "Dubai World seeks a debt standstill",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20121128-160kmy",
+  "date": "2012-11-28",
+  "desk": "btc",
+  "head": "Bitcoin’s first halving cuts the block reward to 25 BTC",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20171128-1a0sow",
+  "date": "2017-11-28",
+  "desk": "chain",
+  "head": "CryptoKitties launches and congests Ethereum",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20011202-fgy9uc",
+  "date": "2001-12-02",
+  "desk": "then",
+  "head": "Enron files for bankruptcy",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19961205-wkzvtq",
+  "date": "1996-12-05",
+  "desk": "then",
+  "head": "Greenspan warns of “irrational exuberance”",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20241205-s6rylu",
+  "date": "2024-12-05",
+  "desk": "btc",
+  "head": "Bitcoin crosses $100,000 for the first time (UTC)",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19741206-1lm2t9",
+  "date": "1974-12-06",
+  "desk": "then",
+  "head": "The Dow bottoms at 577.60 at the end of the 1973–74 bear market",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20171210-141ghi",
+  "date": "2017-12-10",
+  "desk": "btc",
+  "head": "Cboe launches the first bitcoin futures",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081211-1xu21d",
+  "date": "2008-12-11",
+  "desk": "then",
+  "head": "Bernard Madoff is arrested",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19141212-11embo",
+  "date": "1914-12-12",
+  "desk": "then",
+  "head": "The NYSE reopens after its World War I closure",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20081216-1wtfuz",
+  "date": "2008-12-16",
+  "desk": "then",
+  "head": "The Fed cuts rates to near zero",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20141216-voqr6n",
+  "date": "2014-12-16",
+  "desk": "global",
+  "head": "Russia’s central bank raises rates to 17% to defend the ruble",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20151216-xph5mg",
+  "date": "2015-12-16",
+  "desk": "then",
+  "head": "The Fed raises rates for the first time since 2006",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20171217-1f4f8q",
+  "date": "2017-12-17",
+  "desk": "btc",
+  "head": "CME launches bitcoin futures as bitcoin nears $20,000",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19711218-jy2yqo",
+  "date": "1971-12-18",
+  "desk": "global",
+  "head": "The Smithsonian Agreement tries to rebuild fixed exchange rates",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20131218-u2hybn",
+  "date": "2013-12-18",
+  "desk": "then",
+  "head": "The Fed announces it will taper bond purchases",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19941220-1p9zaw",
+  "date": "1994-12-20",
+  "desk": "global",
+  "head": "Mexico devalues the peso, sparking the “Tequila crisis”",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19131223-1mzvuq",
+  "date": "1913-12-23",
+  "desk": "then",
+  "head": "The Federal Reserve Act is signed",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20011223-135je9",
+  "date": "2001-12-23",
+  "desk": "global",
+  "head": "Argentina announces a default on its foreign debt",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20181224-789b1q",
+  "date": "2018-12-24",
+  "desk": "then",
+  "head": "Stocks suffer their worst Christmas Eve drop; the Dow falls 653 points",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20181226-9cx18k",
+  "date": "2018-12-26",
+  "desk": "then",
+  "head": "The Dow gains 1,086 points, its first 1,000-point day",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19891229-n2qh8d",
+  "date": "1989-12-29",
+  "desk": "global",
+  "head": "Japan’s Nikkei 225 peaks at 38,915.87",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e16001231-1bpayw",
+  "date": "1600-12-31",
+  "desk": "global",
+  "head": "The English East India Company is chartered",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e18480403-rg37j8",
+  "date": "1848-04-03",
+  "desk": "then",
+  "head": "The Chicago Board of Trade is founded",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19720516-1igsfr",
+  "date": "1972-05-16",
+  "desk": "then",
+  "head": "CME opens the International Monetary Market for currency futures",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19770822-1chj3i",
+  "date": "1977-08-22",
+  "desk": "then",
+  "head": "CBOT launches U.S. Treasury bond futures",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19820421-xa9o5v",
+  "date": "1982-04-21",
+  "desk": "then",
+  "head": "S&P 500 futures begin trading at CME",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19830330-ymtqqe",
+  "date": "1983-03-30",
+  "desk": "then",
+  "head": "NYMEX launches crude oil futures",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19920625-bwxqay",
+  "date": "1992-06-25",
+  "desk": "then",
+  "head": "CME Globex electronic trading goes live",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e19970909-4c7048",
+  "date": "1997-09-09",
+  "desk": "then",
+  "head": "The E-mini S&P 500 launches",
+  "status": "review",
+  "link": ""
+ },
+ {
+  "id": "e20070712-4coc9m",
+  "date": "2007-07-12",
+  "desk": "then",
+  "head": "CME and CBOT complete their merger",
+  "status": "review",
+  "link": ""
+ }
+]

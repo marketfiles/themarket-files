@@ -1,0 +1,1923 @@
+[
+ {
+  "slug": "nyse-reopens-1873",
+  "file": "MF-1873-0930",
+  "desk": "then",
+  "cat": "Market History",
+  "date": "1873-09-30",
+  "prec": null,
+  "loc": "New York",
+  "head": "Wall Street reopens after ten days of financial panic",
+  "deck": "The New York Stock Exchange returns to trading after one of the most extraordinary shutdowns in American financial history.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On September 18, 1873, Jay Cooke & Company — the banking house that had sold much of the Union’s Civil War borrowing — suspended payments after it could not sell enough bonds to finance the Northern Pacific Railway. Failures spread through New York’s banks and brokerages. On September 20 the New York Stock Exchange closed. It stayed shut for ten days and reopened on September 30."
+   ],
+   [
+    "Why it mattered",
+    "The panic opened a long contraction. The National Bureau of Economic Research dates the downturn from October 1873 to March 1879 — 65 months, the longest contraction in its U.S. business-cycle chronology."
+   ],
+   [
+    "The mechanism",
+    "Railroad construction had been financed with bonds sold to investors at home and abroad. When buyers disappeared, banks that had advanced money against those bonds could not recover it. Under the national banking system, country banks kept reserves on deposit in New York; when they called them home at once, New York banks faced demands for cash they could not meet."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1873-09-18",
+    "Jay Cooke & Company suspends payments"
+   ],
+   [
+    "1873-09-20",
+    "NYSE closes"
+   ],
+   [
+    "1873-09-30",
+    "NYSE reopens"
+   ],
+   [
+    "1873-10",
+    "NBER-dated contraction begins"
+   ]
+  ],
+  "inst": [
+   "New York Stock Exchange",
+   "Jay Cooke & Company",
+   "Northern Pacific Railway"
+  ],
+  "people": [
+   "Jay Cooke"
+  ],
+  "assets": [
+   "Equities",
+   "Railroad bonds"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "Panic of 1873",
+  "sources": [
+   {
+    "claim": "NYSE closed Sept. 20 and reopened Sept. 30, 1873",
+    "source": "Contemporaneous New York press",
+    "doc": "Daily coverage, Sept. 20 – Oct. 1, 1873",
+    "date": "1873",
+    "evidence": "Newspaper reporting",
+    "conf": "High",
+    "rights": "Public domain"
+   },
+   {
+    "claim": "Jay Cooke & Co. suspended Sept. 18, 1873",
+    "source": "Contemporaneous New York press",
+    "doc": "Financial columns, Sept. 19, 1873",
+    "date": "1873",
+    "evidence": "Newspaper reporting",
+    "conf": "High",
+    "rights": "Public domain"
+   },
+   {
+    "claim": "Contraction Oct. 1873 – Mar. 1879, 65 months",
+    "source": "National Bureau of Economic Research",
+    "doc": "U.S. Business Cycle Expansions and Contractions",
+    "date": "Current table",
+    "evidence": "Official chronology",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Wall Street reopens after ten days of financial panic",
+  "plate": "exchange"
+ },
+ {
+  "slug": "buttonwood-agreement-1792",
+  "file": "MF-1792-0517",
+  "desk": "then",
+  "cat": "Market History",
+  "date": "1792-05-17",
+  "prec": null,
+  "loc": "New York",
+  "head": "Twenty-four brokers sign the Buttonwood Agreement",
+  "deck": "A two-sentence pact set a floor commission and a promise to trade with one another — the seed of the New York Stock Exchange.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On May 17, 1792, twenty-four New York brokers signed an agreement to give one another preference in trading securities and to charge commissions of no less than one quarter of one percent."
+   ],
+   [
+    "Why it mattered",
+    "The pact created a self-governing circle of dealers. In 1817 their successors adopted a formal constitution as the New York Stock & Exchange Board, the body later renamed the New York Stock Exchange."
+   ],
+   [
+    "The mechanism",
+    "The early market’s problems were trust and price. Dealing inside a fixed membership at a fixed floor commission reduced counterparty risk and shut out the auctioneers who had been competing for the same business."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1792-05-17",
+    "Agreement signed"
+   ],
+   [
+    "1817-03-08",
+    "New York Stock & Exchange Board constitution"
+   ]
+  ],
+  "inst": [
+   "New York Stock Exchange"
+  ],
+  "people": [],
+  "assets": [
+   "Equities",
+   "Government securities"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "24 brokers signed on May 17, 1792",
+    "source": "New York Stock Exchange",
+    "doc": "The Buttonwood Agreement (original document)",
+    "date": "1792",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Rights holder to confirm"
+   },
+   {
+    "claim": "Minimum commission of one quarter of one percent",
+    "source": "New York Stock Exchange",
+    "doc": "The Buttonwood Agreement text",
+    "date": "1792",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Rights holder to confirm"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Twenty-four brokers sign the Buttonwood Agreement",
+  "plate": "ledger"
+ },
+ {
+  "slug": "knickerbocker-run-1907",
+  "file": "MF-1907-1022",
+  "desk": "then",
+  "cat": "Banking Crisis",
+  "date": "1907-10-22",
+  "prec": null,
+  "loc": "New York",
+  "head": "Depositors run on the Knickerbocker Trust Company",
+  "deck": "A failed copper speculation exposed New York’s trust companies — and a private banker, not a central bank, organized the rescue.",
+  "status": "review",
+  "research": true,
+  "body": [
+   [
+    "What happened",
+    "In mid-October 1907 a failed attempt to corner the stock of United Copper damaged banks tied to the speculators behind it. On October 22 depositors ran on the Knickerbocker Trust Company, which suspended payments."
+   ],
+   [
+    "Why it mattered",
+    "With no central bank, J. P. Morgan assembled New York’s bankers to lend to institutions judged solvent. The episode produced the Aldrich–Vreeland Act of 1908 and the National Monetary Commission, and led to the Federal Reserve Act of 1913."
+   ],
+   [
+    "The mechanism",
+    "Trust companies kept thinner cash reserves than national banks and sat outside the clearinghouse’s system of mutual support. When confidence broke there was no lender of last resort to turn their sound assets into cash quickly."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1907-10-16",
+    "United Copper corner collapses"
+   ],
+   [
+    "1907-10-22",
+    "Run on Knickerbocker Trust"
+   ],
+   [
+    "1908-05-30",
+    "Aldrich–Vreeland Act"
+   ],
+   [
+    "1913-12-23",
+    "Federal Reserve Act"
+   ]
+  ],
+  "inst": [
+   "Knickerbocker Trust Company",
+   "J. P. Morgan & Co.",
+   "Federal Reserve"
+  ],
+  "people": [
+   "J. P. Morgan"
+  ],
+  "assets": [
+   "Equities",
+   "Deposits"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "Panic of 1907",
+  "sources": [
+   {
+    "claim": "Run on Knickerbocker Trust, Oct. 22, 1907",
+    "source": "Federal Reserve History",
+    "doc": "“The Panic of 1907”",
+    "date": "—",
+    "evidence": "Authoritative secondary",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   },
+   {
+    "claim": "Panic led to Aldrich–Vreeland Act and Federal Reserve Act",
+    "source": "Federal Reserve History",
+    "doc": "“The Panic of 1907”",
+    "date": "—",
+    "evidence": "Authoritative secondary",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Depositors run on the Knickerbocker Trust Company",
+  "plate": "crowd"
+ },
+ {
+  "slug": "black-tuesday-1929",
+  "file": "MF-1929-1029",
+  "desk": "then",
+  "cat": "Market Crash",
+  "date": "1929-10-29",
+  "prec": null,
+  "loc": "New York",
+  "head": "Black Tuesday seals the Great Crash of 1929",
+  "deck": "A second day of historic selling closed the book on the 1920s bull market — and began a three-year fall of nearly 90%.",
+  "status": "review",
+  "research": true,
+  "body": [
+   [
+    "What happened",
+    "The Dow Jones Industrial Average fell about 13% on Monday, October 28, 1929, and about 12% more on Tuesday, October 29, as a then-record volume of roughly 16 million shares changed hands."
+   ],
+   [
+    "Why it mattered",
+    "The Dow had peaked at 381.17 on September 3, 1929. It did not bottom until July 8, 1932, at 41.22 — a loss of about 89%."
+   ],
+   [
+    "The mechanism",
+    "Many investors had bought shares on margin, with borrowed money secured by the shares themselves. As prices fell, lenders called loans and brokers sold collateral, turning a decline into compulsory selling that pushed prices lower still."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1929-09-03",
+    "Dow peaks at 381.17"
+   ],
+   [
+    "1929-10-24",
+    "Black Thursday"
+   ],
+   [
+    "1929-10-28",
+    "Dow falls ~13%"
+   ],
+   [
+    "1929-10-29",
+    "Black Tuesday"
+   ],
+   [
+    "1932-07-08",
+    "Dow bottoms at 41.22"
+   ]
+  ],
+  "inst": [
+   "New York Stock Exchange"
+  ],
+  "people": [],
+  "assets": [
+   "Equities",
+   "Broker loans"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "Crash of 1929",
+  "sources": [
+   {
+    "claim": "Dow peak 381.17 (Sept. 3, 1929) and trough 41.22 (July 8, 1932)",
+    "source": "S&P Dow Jones Indices",
+    "doc": "DJIA historical closes",
+    "date": "—",
+    "evidence": "Index data",
+    "conf": "High",
+    "rights": "Licensed data"
+   },
+   {
+    "claim": "Oct. 29 volume of roughly 16 million shares",
+    "source": "Federal Reserve History",
+    "doc": "“Stock Market Crash of 1929”",
+    "date": "—",
+    "evidence": "Authoritative secondary",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Black Tuesday seals the Great Crash of 1929",
+  "plate": "crash"
+ },
+ {
+  "slug": "black-monday-1987",
+  "file": "MF-1987-1019",
+  "desk": "then",
+  "cat": "Market Crash",
+  "date": "1987-10-19",
+  "prec": null,
+  "loc": "New York",
+  "head": "Black Monday: the Dow falls 22.6% in one session",
+  "deck": "The largest one-day percentage decline in the Dow’s history exposed how automated hedging could feed on itself.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On October 19, 1987, the Dow Jones Industrial Average fell 508 points, or 22.6%, to close at 1,738.74."
+   ],
+   [
+    "Why it mattered",
+    "Before markets opened on October 20, the Federal Reserve announced its readiness to serve as a source of liquidity to the economic and financial system. The crash led to the market-wide circuit breakers adopted in 1988."
+   ],
+   [
+    "The mechanism",
+    "Portfolio insurance strategies sold stock-index futures as prices fell. Selling in Chicago futures pulled New York prices down through index arbitrage, which triggered more hedging sales in a loop."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1987-10-19",
+    "Dow falls 22.6%"
+   ],
+   [
+    "1987-10-20",
+    "Fed liquidity statement"
+   ],
+   [
+    "1988-01",
+    "Brady Commission report"
+   ]
+  ],
+  "inst": [
+   "New York Stock Exchange",
+   "Federal Reserve",
+   "Chicago Mercantile Exchange"
+  ],
+  "people": [
+   "Alan Greenspan"
+  ],
+  "assets": [
+   "Equities",
+   "Index futures"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "Black Monday",
+  "sources": [
+   {
+    "claim": "Dow fell 508 points (22.6%) on Oct. 19, 1987",
+    "source": "Federal Reserve History",
+    "doc": "“Stock Market Crash of 1987”",
+    "date": "—",
+    "evidence": "Authoritative secondary",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   },
+   {
+    "claim": "Portfolio insurance and index arbitrage amplified selling",
+    "source": "Presidential Task Force on Market Mechanisms",
+    "doc": "Brady Commission report",
+    "date": "January 1988",
+    "evidence": "Official report",
+    "conf": "High",
+    "rights": "Public document"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Black Monday: the Dow falls 22.6% in one session",
+  "plate": "crash"
+ },
+ {
+  "slug": "nasdaq-peak-2000",
+  "file": "MF-2000-0310",
+  "desk": "then",
+  "cat": "Bubble",
+  "date": "2000-03-10",
+  "prec": null,
+  "loc": "New York",
+  "head": "The Nasdaq closes at its dot-com peak: 5,048.62",
+  "deck": "The index had more than doubled in fifteen months. It would take another fifteen years to see that level again.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On March 10, 2000, the Nasdaq Composite closed at 5,048.62, more than double its level at the end of 1998."
+   ],
+   [
+    "Why it mattered",
+    "By October 9, 2002, the index had fallen to 1,114.11, a decline of about 78%. It did not close above its 2000 peak again until April 2015."
+   ],
+   [
+    "The mechanism",
+    "Valuations rested on expected future growth rather than current earnings. When financing tightened, companies that depended on new equity to fund their losses could no longer raise it, and the expected growth was repriced all at once."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2000-03-10",
+    "Nasdaq closes at 5,048.62"
+   ],
+   [
+    "2002-10-09",
+    "Nasdaq bottoms at 1,114.11"
+   ],
+   [
+    "2015-04-23",
+    "New closing high"
+   ]
+  ],
+  "inst": [
+   "Nasdaq"
+  ],
+  "people": [],
+  "assets": [
+   "Equities",
+   "Technology stocks"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "Dot-com crash",
+  "sources": [
+   {
+    "claim": "Close of 5,048.62 on March 10, 2000",
+    "source": "Nasdaq",
+    "doc": "Nasdaq Composite historical data",
+    "date": "—",
+    "evidence": "Index data",
+    "conf": "High",
+    "rights": "Licensed data"
+   },
+   {
+    "claim": "Trough of 1,114.11 on Oct. 9, 2002",
+    "source": "Nasdaq",
+    "doc": "Nasdaq Composite historical data",
+    "date": "—",
+    "evidence": "Index data",
+    "conf": "High",
+    "rights": "Licensed data"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Nasdaq closes at its dot-com peak: 5,048.62",
+  "plate": "tape"
+ },
+ {
+  "slug": "lehman-bankruptcy-2008",
+  "file": "MF-2008-0915",
+  "desk": "then",
+  "cat": "Financial Crisis",
+  "date": "2008-09-15",
+  "prec": null,
+  "loc": "New York",
+  "head": "Lehman Brothers files for Chapter 11",
+  "deck": "The largest bankruptcy filing in U.S. history turned a mortgage-market crisis into a global run on short-term funding.",
+  "status": "review",
+  "research": true,
+  "body": [
+   [
+    "What happened",
+    "Lehman Brothers Holdings filed for Chapter 11 protection in the U.S. Bankruptcy Court for the Southern District of New York early on September 15, 2008, listing about $639 billion in assets."
+   ],
+   [
+    "Why it mattered",
+    "The next day the Reserve Primary Fund, which held Lehman debt, fell below $1 a share. Outflows from money-market funds froze the commercial-paper market and carried the shock worldwide."
+   ],
+   [
+    "The mechanism",
+    "Lehman financed long-term real-estate and securities positions with short-term borrowing, much of it overnight repo. When lenders demanded more collateral or declined to roll funding, the firm could not sell assets fast enough to repay them."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2008-09-15",
+    "Chapter 11 filing"
+   ],
+   [
+    "2008-09-16",
+    "Reserve Primary Fund breaks the buck"
+   ],
+   [
+    "2008-10-03",
+    "EESA signed"
+   ]
+  ],
+  "inst": [
+   "Lehman Brothers",
+   "Reserve Primary Fund",
+   "Federal Reserve",
+   "U.S. Treasury"
+  ],
+  "people": [
+   "Richard Fuld",
+   "Henry Paulson"
+  ],
+  "assets": [
+   "Repo",
+   "Commercial paper",
+   "Mortgage securities"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "Global Financial Crisis",
+  "sources": [
+   {
+    "claim": "Chapter 11 filed Sept. 15, 2008; ~$639bn assets",
+    "source": "U.S. Bankruptcy Court, S.D.N.Y.",
+    "doc": "In re Lehman Brothers Holdings Inc., Case 08-13555",
+    "date": "2008-09-15",
+    "evidence": "Court filing",
+    "conf": "High",
+    "rights": "Public record"
+   },
+   {
+    "claim": "Reserve Primary Fund fell below $1 on Sept. 16, 2008",
+    "source": "Financial Crisis Inquiry Commission",
+    "doc": "Final Report, 2011",
+    "date": "2011",
+    "evidence": "Official report",
+    "conf": "High",
+    "rights": "Public document"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Lehman Brothers files for Chapter 11",
+  "plate": "vault"
+ },
+ {
+  "slug": "pandemic-crash-2020",
+  "file": "MF-2020-0316",
+  "desk": "then",
+  "cat": "Market Crash",
+  "date": "2020-03-16",
+  "prec": null,
+  "loc": "New York",
+  "head": "The Dow falls nearly 3,000 points as pandemic fear peaks",
+  "deck": "A market-wide halt within minutes of the open marked the most violent day of the 2020 crash.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On March 16, 2020, the Dow fell 2,997.10 points, or 12.9% — at the time its largest point decline on record. A market-wide circuit breaker halted trading minutes after the open."
+   ],
+   [
+    "Why it mattered",
+    "It was one of four market-wide halts that month, on March 9, 12, 16 and 18 — the first since 1997."
+   ],
+   [
+    "The mechanism",
+    "A Level 1 circuit breaker pauses all U.S. equity trading for 15 minutes when the S&P 500 falls 7% from the prior close before 3:25 p.m., giving participants time to reprice rather than trade into an empty order book."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2020-03-09",
+    "First halt"
+   ],
+   [
+    "2020-03-12",
+    "Second halt"
+   ],
+   [
+    "2020-03-16",
+    "Third halt; Dow −12.9%"
+   ],
+   [
+    "2020-03-18",
+    "Fourth halt"
+   ]
+  ],
+  "inst": [
+   "New York Stock Exchange",
+   "Federal Reserve"
+  ],
+  "people": [],
+  "assets": [
+   "Equities"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "2020 pandemic crash",
+  "sources": [
+   {
+    "claim": "Dow −2,997.10 (−12.9%) on March 16, 2020",
+    "source": "S&P Dow Jones Indices",
+    "doc": "DJIA historical closes",
+    "date": "—",
+    "evidence": "Index data",
+    "conf": "High",
+    "rights": "Licensed data"
+   },
+   {
+    "claim": "Level 1 halt: 7% decline, 15-minute pause",
+    "source": "New York Stock Exchange",
+    "doc": "Market-wide circuit breaker rules",
+    "date": "—",
+    "evidence": "Exchange rule",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Dow falls nearly 3,000 points as pandemic fear peaks",
+  "plate": "crash"
+ },
+ {
+  "slug": "nixon-gold-window-1971",
+  "file": "MF-1971-0815",
+  "desk": "global",
+  "cat": "Monetary System",
+  "date": "1971-08-15",
+  "prec": null,
+  "loc": "Washington",
+  "head": "Nixon closes the gold window",
+  "deck": "The United States suspended the dollar’s convertibility into gold, ending the core of the Bretton Woods system.",
+  "status": "review",
+  "research": true,
+  "body": [
+   [
+    "What happened",
+    "In a televised address on the evening of Sunday, August 15, 1971, President Richard Nixon announced that the United States would suspend the convertibility of the dollar into gold, together with a 90-day wage and price freeze and a 10% surcharge on imports."
+   ],
+   [
+    "Why it mattered",
+    "The Smithsonian Agreement of December 1971 tried to rebuild fixed rates, but it did not hold. By 1973 the major currencies were floating."
+   ],
+   [
+    "The mechanism",
+    "Under Bretton Woods, foreign central banks could exchange dollars for gold at $35 an ounce. As dollars held abroad grew far larger than U.S. gold reserves, the promise could not be honored for everyone at once — and the risk of a run grew with every dollar."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1944-07",
+    "Bretton Woods conference"
+   ],
+   [
+    "1971-08-15",
+    "Gold window closed"
+   ],
+   [
+    "1971-12-18",
+    "Smithsonian Agreement"
+   ],
+   [
+    "1973-03",
+    "Major currencies float"
+   ]
+  ],
+  "inst": [
+   "U.S. Treasury",
+   "Federal Reserve",
+   "International Monetary Fund"
+  ],
+  "people": [
+   "Richard Nixon",
+   "John Connally",
+   "Paul Volcker"
+  ],
+  "assets": [
+   "Gold",
+   "U.S. dollar"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "End of Bretton Woods",
+  "sources": [
+   {
+    "claim": "Convertibility suspended Aug. 15, 1971",
+    "source": "Federal Reserve History",
+    "doc": "“Nixon Ends Convertibility of US Dollars to Gold and Announces Wage/Price Controls”",
+    "date": "—",
+    "evidence": "Authoritative secondary",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   },
+   {
+    "claim": "Wage/price freeze and 10% import surcharge",
+    "source": "The American Presidency Project",
+    "doc": "Address to the Nation, Aug. 15, 1971",
+    "date": "1971-08-15",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Public domain"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Nixon closes the gold window",
+  "plate": "gold"
+ },
+ {
+  "slug": "plaza-accord-1985",
+  "file": "MF-1985-0922",
+  "desk": "global",
+  "cat": "Currencies",
+  "date": "1985-09-22",
+  "prec": null,
+  "loc": "New York",
+  "head": "The Plaza Accord: five nations agree to push the dollar down",
+  "deck": "Finance ministers met at a Manhattan hotel and told markets they wanted a weaker dollar — and markets listened.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On September 22, 1985, finance ministers and central bank governors of France, West Germany, Japan, the United Kingdom and the United States met at the Plaza Hotel in New York and agreed that an orderly appreciation of other currencies against the dollar was desirable."
+   ],
+   [
+    "Why it mattered",
+    "The dollar fell sharply over the following two years. The Louvre Accord of February 1987 then tried to stabilize it."
+   ],
+   [
+    "The mechanism",
+    "Coordinated intervention — central banks selling dollars together — was paired with a public statement that changed what markets believed officials would tolerate."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1985-09-22",
+    "Plaza Accord"
+   ],
+   [
+    "1987-02-22",
+    "Louvre Accord"
+   ]
+  ],
+  "inst": [
+   "G5",
+   "U.S. Treasury",
+   "Bank of Japan",
+   "Deutsche Bundesbank"
+  ],
+  "people": [
+   "James Baker"
+  ],
+  "assets": [
+   "U.S. dollar",
+   "Japanese yen",
+   "Deutsche Mark"
+  ],
+  "countries": [
+   "United States",
+   "Japan",
+   "West Germany",
+   "France",
+   "United Kingdom"
+  ],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "G5 meeting at the Plaza Hotel, Sept. 22, 1985",
+    "source": "G5 communiqué",
+    "doc": "Announcement of the Ministers of Finance and Central Bank Governors",
+    "date": "1985-09-22",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Public document"
+   },
+   {
+    "claim": "Louvre Accord, Feb. 1987",
+    "source": "G6 communiqué",
+    "doc": "Louvre statement",
+    "date": "1987-02-22",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Public document"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Plaza Accord: five nations agree to push the dollar down",
+  "plate": "globe"
+ },
+ {
+  "slug": "black-wednesday-1992",
+  "file": "MF-1992-0916",
+  "desk": "global",
+  "cat": "Currencies",
+  "date": "1992-09-16",
+  "prec": null,
+  "loc": "London",
+  "head": "Black Wednesday: sterling leaves the ERM",
+  "deck": "Two emergency rate increases in a single day could not hold the pound inside Europe’s exchange-rate band.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On September 16, 1992, the UK government raised its base rate from 10% to 12% and announced a further rise to 15%. That evening it suspended sterling’s membership of the European Exchange Rate Mechanism."
+   ],
+   [
+    "Why it mattered",
+    "The pound fell sharply and the 15% rate never took effect. Within weeks the government adopted an explicit inflation target, the framework that shaped British monetary policy afterward."
+   ],
+   [
+    "The mechanism",
+    "The ERM held sterling within a band against the Deutsche Mark. With German rates high after reunification, defending the band required UK rates the domestic economy could not bear — and speculators bet the government would not pay that price."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1990-10-08",
+    "UK joins the ERM"
+   ],
+   [
+    "1992-09-16",
+    "Sterling suspended from the ERM"
+   ],
+   [
+    "1992-10-08",
+    "Inflation target announced"
+   ]
+  ],
+  "inst": [
+   "Bank of England",
+   "HM Treasury"
+  ],
+  "people": [
+   "Norman Lamont",
+   "John Major"
+  ],
+  "assets": [
+   "British pound",
+   "Deutsche Mark"
+  ],
+  "countries": [
+   "United Kingdom",
+   "Germany"
+  ],
+  "crisis": "ERM crisis",
+  "sources": [
+   {
+    "claim": "Rate raised to 12%, 15% announced, ERM exit same day",
+    "source": "HM Treasury",
+    "doc": "Chancellor’s statements, Sept. 16, 1992",
+    "date": "1992-09-16",
+    "evidence": "Primary statement",
+    "conf": "High",
+    "rights": "Crown copyright"
+   },
+   {
+    "claim": "Inflation target adopted Oct. 1992",
+    "source": "Bank of England",
+    "doc": "Monetary policy framework history",
+    "date": "—",
+    "evidence": "Authoritative",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Black Wednesday: sterling leaves the ERM",
+  "plate": "tape"
+ },
+ {
+  "slug": "ireland-bank-guarantee-2008",
+  "file": "MF-2008-0930",
+  "desk": "global",
+  "cat": "Banking Crisis",
+  "date": "2008-09-30",
+  "prec": null,
+  "loc": "Dublin",
+  "head": "Ireland guarantees its banks’ liabilities",
+  "deck": "Overnight, the Irish state extended a guarantee over the deposits and most debts of six domestic institutions.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "In the early hours of September 30, 2008, after an overnight meeting, the Irish government announced a guarantee covering deposits and a wide range of other liabilities at six Irish-owned banks and building societies."
+   ],
+   [
+    "Why it mattered",
+    "The guarantee tied the solvency of the state to its banks. As losses at Anglo Irish Bank and others emerged, they became public debts; in late 2010 Ireland entered an EU–IMF assistance programme."
+   ],
+   [
+    "The mechanism",
+    "A blanket guarantee stops a run by removing the reason to withdraw. But it transfers the banks’ credit risk to taxpayers — and when the underlying property losses proved enormous, the sovereign absorbed them."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2008-09-30",
+    "Guarantee announced"
+   ],
+   [
+    "2008-10-02",
+    "Credit Institutions (Financial Support) Act"
+   ],
+   [
+    "2010-11",
+    "EU–IMF programme"
+   ]
+  ],
+  "inst": [
+   "Department of Finance (Ireland)",
+   "Anglo Irish Bank",
+   "Allied Irish Banks",
+   "Bank of Ireland"
+  ],
+  "people": [
+   "Brian Lenihan",
+   "Brian Cowen"
+  ],
+  "assets": [
+   "Bank debt",
+   "Irish government bonds"
+  ],
+  "countries": [
+   "Ireland"
+  ],
+  "crisis": "Global Financial Crisis",
+  "sources": [
+   {
+    "claim": "Guarantee announced Sept. 30, 2008",
+    "source": "Government of Ireland",
+    "doc": "Department of Finance statement, 30 September 2008",
+    "date": "2008-09-30",
+    "evidence": "Primary statement",
+    "conf": "High",
+    "rights": "Government copyright"
+   },
+   {
+    "claim": "Six covered institutions",
+    "source": "Oireachtas",
+    "doc": "Credit Institutions (Financial Support) Act 2008",
+    "date": "2008-10",
+    "evidence": "Legislation",
+    "conf": "High",
+    "rights": "Public document"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Ireland guarantees its banks’ liabilities",
+  "plate": "vault"
+ },
+ {
+  "slug": "whatever-it-takes-2012",
+  "file": "MF-2012-0726",
+  "desk": "global",
+  "cat": "Central Banks",
+  "date": "2012-07-26",
+  "prec": null,
+  "loc": "London",
+  "head": "Draghi: “Whatever it takes”",
+  "deck": "Three words from the ECB president turned the euro crisis without a single bond being bought.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "Speaking at the Global Investment Conference in London on July 26, 2012, European Central Bank President Mario Draghi said the ECB was ready, within its mandate, to do whatever it takes to preserve the euro."
+   ],
+   [
+    "Why it mattered",
+    "In September the ECB announced Outright Monetary Transactions. Spanish and Italian bond yields fell — and the programme was never activated."
+   ],
+   [
+    "The mechanism",
+    "A credible promise of unlimited bond purchases removes the payoff from betting on a country’s exit from the euro. If investors believe the backstop, the central bank may never have to use it."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2012-07-26",
+    "London speech"
+   ],
+   [
+    "2012-09-06",
+    "OMT announced"
+   ]
+  ],
+  "inst": [
+   "European Central Bank"
+  ],
+  "people": [
+   "Mario Draghi"
+  ],
+  "assets": [
+   "Euro",
+   "Sovereign bonds"
+  ],
+  "countries": [
+   "Spain",
+   "Italy",
+   "Euro area"
+  ],
+  "crisis": "Euro-area debt crisis",
+  "sources": [
+   {
+    "claim": "Speech at the Global Investment Conference, July 26, 2012",
+    "source": "European Central Bank",
+    "doc": "Verbatim of the remarks",
+    "date": "2012-07-26",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "ECB — reuse with attribution"
+   },
+   {
+    "claim": "OMT announced Sept. 6, 2012",
+    "source": "European Central Bank",
+    "doc": "Press release, Technical features of OMT",
+    "date": "2012-09-06",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "ECB — reuse with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Draghi: “Whatever it takes”",
+  "plate": "globe"
+ },
+ {
+  "slug": "snb-removes-floor-2015",
+  "file": "MF-2015-0115",
+  "desk": "global",
+  "cat": "Central Banks",
+  "date": "2015-01-15",
+  "prec": null,
+  "loc": "Zurich",
+  "head": "The Swiss National Bank abandons its franc cap",
+  "deck": "A policy the SNB had defended for more than three years ended without warning on a Thursday morning.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On January 15, 2015, the Swiss National Bank discontinued the minimum exchange rate of CHF 1.20 per euro it had held since September 2011, and lowered its deposit rate to −0.75%."
+   ],
+   [
+    "Why it mattered",
+    "The franc surged against the euro within minutes. Several retail currency brokers took heavy losses as client accounts went negative."
+   ],
+   [
+    "The mechanism",
+    "Defending a floor meant creating francs to buy euros without limit. With the ECB moving toward quantitative easing, the size of that defense — and the balance sheet behind it — threatened to grow without bound."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2011-09-06",
+    "Minimum rate introduced"
+   ],
+   [
+    "2015-01-15",
+    "Minimum rate discontinued"
+   ]
+  ],
+  "inst": [
+   "Swiss National Bank"
+  ],
+  "people": [
+   "Thomas Jordan"
+  ],
+  "assets": [
+   "Swiss franc",
+   "Euro"
+  ],
+  "countries": [
+   "Switzerland"
+  ],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Minimum rate discontinued; deposit rate −0.75%",
+    "source": "Swiss National Bank",
+    "doc": "Press release, 15 January 2015",
+    "date": "2015-01-15",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "SNB — reuse with attribution"
+   },
+   {
+    "claim": "Minimum rate introduced Sept. 6, 2011",
+    "source": "Swiss National Bank",
+    "doc": "Press release, 6 September 2011",
+    "date": "2011-09-06",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "SNB — reuse with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Swiss National Bank abandons its franc cap",
+  "plate": "tape"
+ },
+ {
+  "slug": "south-sea-bubble-1720",
+  "file": "MF-1720-XXXX",
+  "desk": "global",
+  "cat": "Bubble",
+  "date": "1720-01-01",
+  "prec": "y",
+  "loc": "London",
+  "head": "The South Sea Bubble",
+  "deck": "A scheme to swap government debt for company shares produced one of history’s defining manias.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "In 1720 shares of the South Sea Company rose from about £128 in January to near £1,000 by the summer, then collapsed by the autumn."
+   ],
+   [
+    "Why it mattered",
+    "Parliament investigated the company’s directors, and the Bubble Act restricted the formation of joint-stock companies until its repeal in 1825."
+   ],
+   [
+    "The mechanism",
+    "The company took on government debt in exchange for its own shares. The higher its share price, the fewer shares it had to issue per pound of debt — giving insiders every reason to push the price up."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1720-01",
+    "Shares near £128"
+   ],
+   [
+    "1720-06",
+    "Bubble Act passed"
+   ],
+   [
+    "1720-summer",
+    "Shares near £1,000"
+   ],
+   [
+    "1825",
+    "Bubble Act repealed"
+   ]
+  ],
+  "inst": [
+   "South Sea Company",
+   "Parliament of Great Britain"
+  ],
+  "people": [
+   "John Blunt"
+  ],
+  "assets": [
+   "Equities",
+   "Government debt"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "crisis": "South Sea Bubble",
+  "sources": [
+   {
+    "claim": "Price path ~£128 to near £1,000 in 1720",
+    "source": "Contemporary price lists",
+    "doc": "Course of the Exchange (1720)",
+    "date": "1720",
+    "evidence": "Primary price record",
+    "conf": "Medium",
+    "rights": "Public domain"
+   },
+   {
+    "claim": "Bubble Act repealed 1825",
+    "source": "UK Parliament",
+    "doc": "Statute records",
+    "date": "1825",
+    "evidence": "Legislation",
+    "conf": "High",
+    "rights": "Public document"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The South Sea Bubble",
+  "plate": "ledger"
+ },
+ {
+  "slug": "voc-charter-1602",
+  "file": "MF-1602-0320",
+  "desk": "global",
+  "cat": "Market History",
+  "date": "1602-03-20",
+  "prec": null,
+  "loc": "Amsterdam",
+  "head": "The Dutch East India Company is chartered",
+  "deck": "A public share subscription gave Amsterdam one of the world’s earliest markets in transferable company shares.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On March 20, 1602, the States General of the Dutch Republic granted a charter to the Verenigde Oostindische Compagnie, giving it a monopoly on Dutch trade in Asia."
+   ],
+   [
+    "Why it mattered",
+    "The company raised capital from a broad public subscription. Investors who wanted their money back sold their shares to someone else, and a secondary market formed in Amsterdam."
+   ],
+   [
+    "The mechanism",
+    "Long voyages tied up capital for years. Transferable shares let the company keep its capital permanently while investors kept the option to exit — the basic design of the modern public company."
+   ]
+  ],
+  "keyDates": [
+   [
+    "1602-03-20",
+    "Charter granted"
+   ]
+  ],
+  "inst": [
+   "Dutch East India Company (VOC)",
+   "States General"
+  ],
+  "people": [],
+  "assets": [
+   "Equities"
+  ],
+  "countries": [
+   "Netherlands"
+  ],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Charter granted March 20, 1602",
+    "source": "Dutch National Archives",
+    "doc": "VOC charter (Octrooi)",
+    "date": "1602",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Archive terms apply"
+   },
+   {
+    "claim": "Secondary share market formed in Amsterdam",
+    "source": "Academic literature",
+    "doc": "Economic history of the VOC share market",
+    "date": "—",
+    "evidence": "Scholarly secondary",
+    "conf": "High",
+    "rights": "Cite only"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Dutch East India Company is chartered",
+  "plate": "ledger"
+ },
+ {
+  "slug": "bitcoin-white-paper-2008",
+  "file": "MF-2008-1031",
+  "desk": "btc",
+  "cat": "Bitcoin History",
+  "date": "2008-10-31",
+  "prec": null,
+  "loc": "Online",
+  "head": "Satoshi Nakamoto publishes the Bitcoin white paper",
+  "deck": "A nine-page paper, sent to a cryptography mailing list, described electronic cash with no trusted third party.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On October 31, 2008, a message to a cryptography mailing list announced a new peer-to-peer electronic cash system with no trusted third party, and linked to a nine-page paper signed Satoshi Nakamoto."
+   ],
+   [
+    "Why it mattered",
+    "The paper proposed a way to prevent double-spending without a central authority — the problem that had defeated earlier designs for digital cash."
+   ],
+   [
+    "The mechanism",
+    "Transactions are grouped into blocks linked by proof-of-work. Rewriting history would require redoing that work faster than the rest of the network, which becomes impractical as blocks accumulate."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2008-10-31",
+    "White paper announced"
+   ],
+   [
+    "2009-01-03",
+    "Genesis block"
+   ]
+  ],
+  "inst": [],
+  "people": [
+   "Satoshi Nakamoto"
+  ],
+  "assets": [
+   "Bitcoin"
+  ],
+  "countries": [],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Announced Oct. 31, 2008 on the Cryptography Mailing List",
+    "source": "Cryptography Mailing List archive",
+    "doc": "“Bitcoin P2P e-cash paper”",
+    "date": "2008-10-31",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   },
+   {
+    "claim": "Paper is nine pages",
+    "source": "bitcoin.org",
+    "doc": "Bitcoin: A Peer-to-Peer Electronic Cash System (PDF)",
+    "date": "2008",
+    "evidence": "Primary document",
+    "conf": "High",
+    "rights": "MIT-licensed distribution; confirm"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Satoshi Nakamoto publishes the Bitcoin white paper",
+  "plate": "ledger"
+ },
+ {
+  "slug": "bitcoin-genesis-block-2009",
+  "file": "MF-2009-0103",
+  "desk": "btc",
+  "cat": "Bitcoin History",
+  "date": "2009-01-03",
+  "prec": null,
+  "loc": "Block 0",
+  "head": "The Bitcoin genesis block is mined",
+  "deck": "The first block carried a newspaper headline about bank bailouts — a timestamp and a statement of purpose.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On January 3, 2009, the first block of the Bitcoin blockchain was mined. Its coinbase transaction carried a line of text quoting that day’s front page of The Times: “Chancellor on brink of second bailout for banks.”"
+   ],
+   [
+    "Why it mattered",
+    "The embedded headline proved the block could not have been created before that date, and read as a statement of intent: a monetary system without the bailouts on the front page."
+   ],
+   [
+    "The mechanism",
+    "The genesis block is hard-coded into Bitcoin’s software. Each later block commits to the hash of the one before it, so the whole chain can be verified back to this point. Its 50-bitcoin reward cannot be spent."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2009-01-03",
+    "Block 0 mined"
+   ],
+   [
+    "2009-01-12",
+    "First person-to-person transaction"
+   ]
+  ],
+  "inst": [],
+  "people": [
+   "Satoshi Nakamoto",
+   "Hal Finney"
+  ],
+  "assets": [
+   "Bitcoin"
+  ],
+  "countries": [],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Block 0 timestamp Jan. 3, 2009 with embedded Times headline",
+    "source": "Bitcoin blockchain",
+    "doc": "Block 0 coinbase data",
+    "date": "2009-01-03",
+    "evidence": "Primary on-chain record",
+    "conf": "High",
+    "rights": "Public data"
+   },
+   {
+    "claim": "Genesis reward is unspendable",
+    "source": "Bitcoin Core source code",
+    "doc": "chainparams / consensus rules",
+    "date": "—",
+    "evidence": "Primary source code",
+    "conf": "High",
+    "rights": "MIT License"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Bitcoin genesis block is mined",
+  "plate": "chain"
+ },
+ {
+  "slug": "bitcoin-pizza-day-2010",
+  "file": "MF-2010-0522",
+  "desk": "btc",
+  "cat": "Bitcoin History",
+  "date": "2010-05-22",
+  "prec": null,
+  "loc": "Jacksonville, Florida",
+  "head": "10,000 bitcoin buys two pizzas",
+  "deck": "A programmer’s forum request produced the first widely cited purchase of physical goods with bitcoin.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On May 22, 2010, programmer Laszlo Hanyecz reported on the BitcoinTalk forum that he had paid 10,000 bitcoin for two pizzas, arranged through another forum member."
+   ],
+   [
+    "Why it mattered",
+    "It is widely cited as the first documented purchase of physical goods with bitcoin, and May 22 is now marked each year as Bitcoin Pizza Day."
+   ],
+   [
+    "The mechanism",
+    "Bitcoin had almost no market price in 2010. A voluntary trade between two strangers set a real-world exchange rate — the way any new money first acquires value."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2010-05-18",
+    "Forum request posted"
+   ],
+   [
+    "2010-05-22",
+    "Purchase reported"
+   ]
+  ],
+  "inst": [
+   "BitcoinTalk"
+  ],
+  "people": [
+   "Laszlo Hanyecz"
+  ],
+  "assets": [
+   "Bitcoin"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Purchase reported May 22, 2010",
+    "source": "BitcoinTalk forum",
+    "doc": "“Pizza for bitcoins?” thread",
+    "date": "2010-05-22",
+    "evidence": "Primary post",
+    "conf": "High",
+    "rights": "Forum terms — screenshot rights to confirm"
+   },
+   {
+    "claim": "10,000 BTC paid",
+    "source": "Bitcoin blockchain",
+    "doc": "Transaction record",
+    "date": "2010-05-22",
+    "evidence": "On-chain record",
+    "conf": "High",
+    "rights": "Public data"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: 10,000 bitcoin buys two pizzas",
+  "plate": "chain"
+ },
+ {
+  "slug": "mt-gox-bankruptcy-2014",
+  "file": "MF-2014-0228",
+  "desk": "btc",
+  "cat": "Exchange Failure",
+  "date": "2014-02-28",
+  "prec": null,
+  "loc": "Tokyo",
+  "head": "Mt. Gox files for bankruptcy protection in Tokyo",
+  "deck": "The collapse of bitcoin’s dominant early exchange became the defining lesson in custody risk.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "After halting withdrawals earlier in the month, the Tokyo-based exchange Mt. Gox filed for bankruptcy protection on February 28, 2014, reporting that about 850,000 bitcoin were missing."
+   ],
+   [
+    "Why it mattered",
+    "Mt. Gox had once handled most of the world’s bitcoin trading. Its failure made custody — who actually holds the coins — the central question for every exchange that followed."
+   ],
+   [
+    "The mechanism",
+    "An exchange that pools customers’ coins can lose them to theft or mismanagement without customers seeing it. Without proof of reserves, an exchange balance is only a claim on the exchange."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2014-02-07",
+    "Withdrawals halted"
+   ],
+   [
+    "2014-02-28",
+    "Bankruptcy filing in Tokyo"
+   ]
+  ],
+  "inst": [
+   "Mt. Gox"
+  ],
+  "people": [
+   "Mark Karpelès"
+  ],
+  "assets": [
+   "Bitcoin"
+  ],
+  "countries": [
+   "Japan"
+  ],
+  "crisis": "Mt. Gox collapse",
+  "sources": [
+   {
+    "claim": "Filed Feb. 28, 2014; ~850,000 BTC reported missing",
+    "source": "Tokyo District Court / Mt. Gox trustee",
+    "doc": "Civil rehabilitation filing; trustee notices",
+    "date": "2014-02-28",
+    "evidence": "Court record",
+    "conf": "High",
+    "rights": "Public record"
+   },
+   {
+    "claim": "Withdrawals halted Feb. 2014",
+    "source": "Mt. Gox",
+    "doc": "Company announcements",
+    "date": "2014-02",
+    "evidence": "Primary statement",
+    "conf": "Medium",
+    "rights": "Archived web page"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Mt. Gox files for bankruptcy protection in Tokyo",
+  "plate": "servers"
+ },
+ {
+  "slug": "spot-bitcoin-etfs-2024",
+  "file": "MF-2024-0110",
+  "desk": "btc",
+  "cat": "Market Structure",
+  "date": "2024-01-10",
+  "prec": null,
+  "loc": "Washington",
+  "head": "The SEC approves spot bitcoin ETFs",
+  "deck": "Eleven products won approval in one order, bringing bitcoin exposure into ordinary brokerage accounts.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On January 10, 2024, the U.S. Securities and Exchange Commission approved the listing and trading of eleven spot bitcoin exchange-traded products. Trading began the next day."
+   ],
+   [
+    "Why it mattered",
+    "Brokerage accounts, retirement plans and advisers gained regulated access to bitcoin through ordinary securities, without holding the asset directly."
+   ],
+   [
+    "The mechanism",
+    "Authorized participants create and redeem ETF shares in large blocks, which keeps each fund’s market price close to the value of the bitcoin held by its custodian."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2024-01-10",
+    "SEC approval order"
+   ],
+   [
+    "2024-01-11",
+    "Trading begins"
+   ]
+  ],
+  "inst": [
+   "U.S. Securities and Exchange Commission"
+  ],
+  "people": [
+   "Gary Gensler"
+  ],
+  "assets": [
+   "Bitcoin",
+   "ETFs"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Approval of eleven spot bitcoin ETPs, Jan. 10, 2024",
+    "source": "U.S. Securities and Exchange Commission",
+    "doc": "Order Granting Accelerated Approval (Release No. 34-99306)",
+    "date": "2024-01-10",
+    "evidence": "Regulatory order",
+    "conf": "High",
+    "rights": "Public document"
+   },
+   {
+    "claim": "Trading began Jan. 11, 2024",
+    "source": "Listing exchanges",
+    "doc": "Exchange notices",
+    "date": "2024-01-11",
+    "evidence": "Primary notice",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The SEC approves spot bitcoin ETFs",
+  "plate": "vault"
+ },
+ {
+  "slug": "ethereum-frontier-2015",
+  "file": "MF-2015-0730",
+  "desk": "chain",
+  "cat": "Protocols",
+  "date": "2015-07-30",
+  "prec": null,
+  "loc": "Online",
+  "head": "Ethereum’s Frontier network goes live",
+  "deck": "A public blockchain with a built-in programming environment became the base layer for tokens and DeFi.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "The Ethereum network launched on July 30, 2015, with its Frontier release, adding a general-purpose virtual machine to a public blockchain."
+   ],
+   [
+    "Why it mattered",
+    "Programmable smart contracts became the foundation for tokens, decentralized exchanges and on-chain lending."
+   ],
+   [
+    "The mechanism",
+    "Every node runs the same code on the same inputs. Users pay gas — fees for computation — which prices the network’s shared resources and stops programs from running forever."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2015-07-30",
+    "Frontier launch"
+   ]
+  ],
+  "inst": [
+   "Ethereum Foundation"
+  ],
+  "people": [
+   "Vitalik Buterin"
+  ],
+  "assets": [
+   "Ether"
+  ],
+  "countries": [],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Frontier launched July 30, 2015",
+    "source": "Ethereum Foundation blog",
+    "doc": "Frontier launch announcement",
+    "date": "2015-07-30",
+    "evidence": "Primary statement",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   },
+   {
+    "claim": "Gas meters computation",
+    "source": "Ethereum Yellow Paper",
+    "doc": "Formal specification",
+    "date": "2014–",
+    "evidence": "Primary technical document",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: Ethereum’s Frontier network goes live",
+  "plate": "chain"
+ },
+ {
+  "slug": "the-dao-exploit-2016",
+  "file": "MF-2016-0617",
+  "desk": "chain",
+  "cat": "Security",
+  "date": "2016-06-17",
+  "prec": null,
+  "loc": "Online",
+  "head": "The DAO is drained",
+  "deck": "A reentrancy bug in a crowdfunded contract forced Ethereum’s first contested hard fork.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On June 17, 2016, an attacker began draining ether from The DAO, a crowdfunded investment contract, by exploiting how it handled withdrawals."
+   ],
+   [
+    "Why it mattered",
+    "Ethereum adopted a hard fork on July 20, 2016, to return the funds. Those who rejected it kept the original chain running as Ethereum Classic."
+   ],
+   [
+    "The mechanism",
+    "The contract sent ether before updating its balance record. A malicious contract re-entered the withdrawal function repeatedly — the reentrancy bug now taught as a canonical smart-contract failure."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2016-06-17",
+    "Exploit begins"
+   ],
+   [
+    "2016-07-20",
+    "Hard fork"
+   ]
+  ],
+  "inst": [
+   "The DAO"
+  ],
+  "people": [],
+  "assets": [
+   "Ether",
+   "Ethereum Classic"
+  ],
+  "countries": [],
+  "crisis": "The DAO exploit",
+  "sources": [
+   {
+    "claim": "Exploit began June 17, 2016",
+    "source": "Ethereum blockchain",
+    "doc": "Transaction records",
+    "date": "2016-06-17",
+    "evidence": "On-chain record",
+    "conf": "High",
+    "rights": "Public data"
+   },
+   {
+    "claim": "Hard fork on July 20, 2016",
+    "source": "Ethereum Foundation blog",
+    "doc": "Hard fork completed",
+    "date": "2016-07-20",
+    "evidence": "Primary statement",
+    "conf": "High",
+    "rights": "Cite with attribution"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The DAO is drained",
+  "plate": "servers"
+ },
+ {
+  "slug": "the-merge-2022",
+  "file": "MF-2022-0915",
+  "desk": "chain",
+  "cat": "Protocols",
+  "date": "2022-09-15",
+  "prec": null,
+  "loc": "Online",
+  "head": "The Merge: Ethereum moves to proof-of-stake",
+  "deck": "The network swapped its consensus engine while running, ending mining on Ethereum.",
+  "status": "review",
+  "research": false,
+  "body": [
+   [
+    "What happened",
+    "On September 15, 2022, Ethereum’s execution layer merged with the Beacon Chain, ending proof-of-work mining on the network."
+   ],
+   [
+    "Why it mattered",
+    "The Ethereum Foundation estimated the change cut the network’s energy consumption by about 99.95%."
+   ],
+   [
+    "The mechanism",
+    "Validators lock ether as collateral and take turns proposing and attesting to blocks. Misbehavior can be punished by destroying part of that stake — security from capital at risk rather than electricity spent."
+   ]
+  ],
+  "keyDates": [
+   [
+    "2020-12-01",
+    "Beacon Chain launch"
+   ],
+   [
+    "2022-09-15",
+    "The Merge"
+   ]
+  ],
+  "inst": [
+   "Ethereum Foundation"
+  ],
+  "people": [],
+  "assets": [
+   "Ether"
+  ],
+  "countries": [],
+  "crisis": "",
+  "sources": [
+   {
+    "claim": "Merge completed Sept. 15, 2022",
+    "source": "Ethereum Foundation",
+    "doc": "The Merge (ethereum.org)",
+    "date": "2022-09-15",
+    "evidence": "Primary statement",
+    "conf": "High",
+    "rights": "CC BY 4.0 — confirm"
+   },
+   {
+    "claim": "~99.95% energy reduction estimate",
+    "source": "Ethereum Foundation",
+    "doc": "Energy consumption page",
+    "date": "—",
+    "evidence": "Primary estimate",
+    "conf": "Medium",
+    "rights": "CC BY 4.0 — confirm"
+   }
+  ],
+  "img": {
+   "status": "Illustrative placeholder",
+   "note": "Illustrative placeholder. Event-specific archival image pending provenance and rights review."
+  },
+  "alt": "Illustrative plate for: The Merge: Ethereum moves to proof-of-stake",
+  "plate": "servers"
+ }
+]
